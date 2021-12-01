@@ -1,5 +1,5 @@
 const nameGirl = 'Em';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'n';
 const eventName = 'Gửi em, tháng 12 rực rỡ';
 const titleCard = 'Tặng người ấy';
 const contentCard = 'Chúc honey của anh tháng cuối năm tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
